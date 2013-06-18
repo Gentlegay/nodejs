@@ -1,0 +1,4 @@
+Customer:
+  dbName: root
+  dbPwd: root
+  database: bike
